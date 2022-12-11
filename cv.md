@@ -40,4 +40,3 @@ Freelance
 Russian Native
 English beginner
 Spanish beginner
-spanish
