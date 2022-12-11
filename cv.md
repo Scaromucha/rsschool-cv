@@ -39,4 +39,3 @@ Freelance
 ##**Language**
 Russian Native
 English beginner
-Spanish beginner
