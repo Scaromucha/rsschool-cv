@@ -1,1 +1,1 @@
-# https://scaromucha.github.io/rsschool-cv/cv
+# https://scaromucha.github.io/rsschool-cv/
