@@ -37,5 +37,6 @@ Freelance
 +    "Basic Java Script"
 
 ##**Language**
+Russian Native
 English beginner
 Spanish beginner
